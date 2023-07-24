@@ -1,6 +1,7 @@
 # Welcome to Ahmed Muhammed GitHub Profile
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3mah-24&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d3mah-24&)
 
 ![Profile views](https://komarev.com/ghpvc/?username=d3mah-24&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -24,7 +25,8 @@ Hello there! 👋 Welcome to my GitHub profile. I'm Ahmed Muhamed, a passionate 
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d3mah-24&)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3mah-24&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3mah-24&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
