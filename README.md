@@ -62,7 +62,8 @@ Hello there! 👋 Welcome to my GitHub profile. I'm Ahmed Muhamed, a passionate 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="50" height="50"/> &nbsp;
 </p>
 <hr/>
-## 📈 GitHub Stats
+
+##  📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3mah-24&show_icons=true&theme=radical)
 
